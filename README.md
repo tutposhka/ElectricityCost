@@ -4,8 +4,8 @@ WPF rakendus elektrikulu arvutamiseks 30 paeva jooksul.
 
 ## Projekti struktuur
 
-- ElectricityCost.Core - Class Library, kus on arvutused ja sisendi kontroll
-- ElectricityCost.WpfApp - WPF rakendus kasutajaliidesega
+- ElectricityCost.Core Class Library, kus on arvutused ja sisendi kontroll
+- ElectricityCost.WpfApp WPF rakendus kasutajaliidesega
 
 ## Sisendid
 
@@ -23,9 +23,9 @@ Maksumus arvutatakse:
 
 `energiakulu * elektri hind`
 
-Tulemus umardatakse kahe komakohani.
+Tulemus umardatakse kahe komakohani
 
-Maksud ja lisatasud ei ole arvestatud.
+Maksud ja lisatasud ei ole arvestatud
 
 ## Naide 1
 
@@ -50,8 +50,5 @@ Sisend:
 
 Oodatud veateade:
 
-`Tootunnid paevas peavad olema vahemikus 0 kuni 24.`
+`Tootunnid paevas peavad olema vahemikus 0 kuni 24`
 
-## Kaivitamine
-
-Ava projekt Visual Studios ja kaivita ElectricityCost.WpfApp.
